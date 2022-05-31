@@ -1,0 +1,37 @@
+This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System.
+This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity,
+ nutrition, physical activity, and breastfeeding.
+
+ YearStart
+ YearEnd
+ LocationAbbr
+ LocationDesc
+ Datasource
+ Class
+ Topic
+ Question
+ Data_Value_Unit
+ Data_Value_Type
+ Data_Value
+ Data_Value_Alt
+ Data_Value_Footnote_Symbol
+ Data_Value_Footnote
+ Low_Confidence_Limit
+ High_Confidence_Limit
+ Sample_Size
+ Total
+ Age(years)
+ Education
+ Gender
+ Income
+ Race/Ethnicity
+ GeoLocation
+ ClassID
+ TopicID
+ QuestionID
+ DataValueTypeID
+ LocationID
+ StratificationCategory1
+ Stratification1
+ StratificationCategoryId1
+ StratificationID1
